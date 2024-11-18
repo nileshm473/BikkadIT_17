@@ -1,0 +1,30 @@
+Introduction to the GIT by providing the user name and email.
+
+$ git remote add origin https://github.com/nileshm473/NileshIT.git
+$ git config -- list
+$ git config --global user.name "nileshm473"
+$ git config --global user.email "nmeshram473@gmail.com"
+
+$ git remote add origin https://github.com/nileshm473/BikkadIT_17.git
+$ git config --global user.name "nileshm473"
+$ git config --global user.email "nmeshram473@gmail.com"
+$ git config -- list
+
+How to add files to the empty repository:
+$ git config
+$ git status
+tracked
+untracked
+modified
+deleted
+rename
+
+$ git add "your file name.ext"
+
+multiple
+$git add
+
+
+
+
+
